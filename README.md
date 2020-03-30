@@ -12,4 +12,3 @@ https://teratail.com/questions/249957 の質問に答えるために作成した
 
 * Xcode 11.4
 * iOS 13.4
-* Facebook SDK 6.3.0
